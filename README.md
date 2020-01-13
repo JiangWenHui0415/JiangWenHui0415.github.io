@@ -1,2 +1,2 @@
-# jiangwenhui.github.com
+# jiangwenhui.github.io
 personal home page
